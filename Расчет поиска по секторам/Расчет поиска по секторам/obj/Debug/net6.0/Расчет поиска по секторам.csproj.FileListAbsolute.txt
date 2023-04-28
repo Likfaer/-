@@ -1,0 +1,15 @@
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\bin\Debug\net6.0\Расчет поиска по секторам.exe
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\bin\Debug\net6.0\Расчет поиска по секторам.deps.json
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\bin\Debug\net6.0\Расчет поиска по секторам.runtimeconfig.json
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\bin\Debug\net6.0\Расчет поиска по секторам.dll
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\bin\Debug\net6.0\Расчет поиска по секторам.pdb
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\obj\Debug\net6.0\Расчет поиска по секторам.csproj.AssemblyReference.cache
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\obj\Debug\net6.0\Расчет поиска по секторам.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\obj\Debug\net6.0\Расчет поиска по секторам.AssemblyInfoInputs.cache
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\obj\Debug\net6.0\Расчет поиска по секторам.AssemblyInfo.cs
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\obj\Debug\net6.0\Расчет поиска по секторам.csproj.CoreCompileInputs.cache
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\obj\Debug\net6.0\Расчет поиска по секторам.dll
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\obj\Debug\net6.0\refint\Расчет поиска по секторам.dll
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\obj\Debug\net6.0\Расчет поиска по секторам.pdb
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\obj\Debug\net6.0\Расчет поиска по секторам.genruntimeconfig.cache
+C:\Users\minal\source\repos\Расчет поиска по секторам\Расчет поиска по секторам\obj\Debug\net6.0\ref\Расчет поиска по секторам.dll
